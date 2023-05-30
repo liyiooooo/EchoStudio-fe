@@ -32,7 +32,8 @@
 <div align=center><img width="700" src="https://i.imgur.com/XV5ebUE.png"/></div>
 
 ### <font color=#FF5809>會員優惠券</font>
-<div align=center><img width="700" src="https://i.imgur.com/43mrXfy.png"/></div>
+* #### 做有複製按鈕方便使用者快速複製，複製成功會跳出通知
+<div align=center><img width="700" src="https://i.imgur.com/eFTUoyb.png"/></div>
 
 ### <font color=#FF5809>會員課程</font>
 <div align=center><img width="700" src="https://i.imgur.com/0cotEMp.png"/></div>
