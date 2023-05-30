@@ -39,6 +39,9 @@
 <div align=center><img width="700" src="https://i.imgur.com/0cotEMp.png"/></div>
 
 ## ui設計
+### <font color=#FF5809>主頁設計（初稿）</font>
+<div align=center><img width="700" src="https://i.imgur.com/pQlooZD.png"/></div>
+
 ### <font color=#FF5809>會員登入、註冊、忘記密碼</font>
 <div align=center><img width="700" src="https://i.imgur.com/43mrXfy.png"/></div>
 <div align=center><img width="700" src="https://i.imgur.com/NUmnAIi.png"/></div>
